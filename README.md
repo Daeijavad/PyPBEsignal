@@ -7,4 +7,4 @@ It gets theta, transmit utility and receive utility and then returns a list of a
 
 Pay attention to how to fill the utility array (It is One-based indexed).
 
-in jupyter notebook you will see a user interface that finds the maximum of all equilibriums(based on sender expected utility) and plots it
+In jupyter notebook you will see a user interface which finds the maximum of all equilibriums(based on sender's expected utility) and plots it
