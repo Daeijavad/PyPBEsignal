@@ -1,10 +1,10 @@
 # Signaling Game
-Signaling game's Nash Equilibrium implemented with python
+Signaling game's Nash Equilibrium implemented with python.
 
-To use, just import Equilibrium.py and use "Eq" function:
+To use, import Equilibrium.py and use the "Eq" function:
 
-The function gets theta, transmit utility and receive utility and returns a list of all equilibrium.
+The function gets theta, transmit utility and receive utility, and returns a list of all equilibrium.
 
-Pay attention to how to fill utility arrays (It is One-based indexed).
+Please pay attention to how to fill utility arrays (It is One-based indexed).
 
-In jupyter notebook you will see a user interface which finds the maximum of all equilibriums(based on transmitter's expected utility) and plots it
+In jupyter notebook, you will see a user interface that finds the maximum of all equilibriums(based on the transmitter's expected utility) and plots it.
